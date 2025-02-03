@@ -1,0 +1,1422 @@
+[
+    {
+        "tag": "a",
+        "tooltip": "Screen Reader Access",
+        "information": "Screen Reader Access"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Increase font size",
+        "information": "A+"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Reset font size",
+        "information": "A"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Decrease font size",
+        "information": "A-"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Screen Reader Access",
+        "information": "Screen Reader Access"
+    },
+    {
+        "tag": "img",
+        "tooltip": "Accessibility Dropdown",
+        "information": "A+AA-"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Increase font size",
+        "information": "A+"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Reset font size",
+        "information": "A"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Decrease font size",
+        "information": "A-"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Home",
+        "information": "Home"
+    },
+    {
+        "tag": "a",
+        "tooltip": "About Us",
+        "information": "About Us"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Our Mandate",
+        "information": "Our Mandate"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Vision and Mission",
+        "information": "Vision and Mission"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Organization Chart",
+        "information": "Organization Chart"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Whos who",
+        "information": "Whos who"
+    },
+    {
+        "tag": "a",
+        "tooltip": "abouthistory",
+        "information": "abouthistory"
+    },
+    {
+        "tag": "a",
+        "tooltip": "History of Indian Civil Accounts Organisation",
+        "information": "History of Indian Civil Accounts Organisation"
+    },
+    {
+        "tag": "a",
+        "tooltip": "AboutOthers",
+        "information": "AboutOthers"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Public Finance Management System PFMS",
+        "information": "Public Finance Management System PFMS"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Central Pension Accounting Office-CPAO",
+        "information": "Central Pension Accounting Office-CPAO"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Institute of Government Accounts and Finance-INGAF",
+        "information": "Institute of Government Accounts and Finance-INGAF"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Upahar Sangrahalaya",
+        "information": "Upahar Sangrahalaya"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Accounts",
+        "information": "Accounts"
+    },
+    {
+        "tag": "a",
+        "tooltip": "About PFMS",
+        "information": "About PFMS"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Technology Reporting Banking and Risk Management-TRBR",
+        "information": "Technology Reporting Banking and Risk Management-TRBR"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Roll out ",
+        "information": "Roll out"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Direct Beneficiary Transfer DBT",
+        "information": "Direct Beneficiary Transfer DBT"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Admin and Training",
+        "information": "Admin and Training"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Helpdesk",
+        "information": "Helpdesk"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Government Integrated Financial Management System-GIFMIS",
+        "information": "Government Integrated Financial Management System-GIFMIS"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Bharatkosh",
+        "information": "Bharatkosh"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Treasury Single Account TSA ",
+        "information": "Treasury Single Account TSA"
+    },
+    {
+        "tag": "a",
+        "tooltip": "eBill",
+        "information": "eBill"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Human Resources",
+        "information": "Human Resources"
+    },
+    {
+        "tag": "a",
+        "tooltip": "HR I Section",
+        "information": "HR I Section"
+    },
+    {
+        "tag": "a",
+        "tooltip": "HR II and HR III Sections",
+        "information": "HR II and HR III Sections"
+    },
+    {
+        "tag": "a",
+        "tooltip": "HR IV Section",
+        "information": "HR IV Section"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Directories",
+        "information": "Directories"
+    },
+    {
+        "tag": "a",
+        "tooltip": "ICAS Directory",
+        "information": "ICAS Directory"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Directory of Civil Accounts Organisation",
+        "information": "Directory of Civil Accounts Organisation"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Field Accounting Units",
+        "information": "Field Accounting Units"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Audit",
+        "information": "Audit"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Internal Audit Division",
+        "information": "Internal Audit Division"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Manuals",
+        "information": "Manuals"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Centre of Excellence ",
+        "information": "Centre of Excellence"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Audit Para Monitoring System APMS",
+        "information": "Audit Para Monitoring System APMS"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Exam",
+        "information": "Exam"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Exams",
+        "information": "Exams"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Latest Announcement and Circulars",
+        "information": "Latest Announcement and Circulars"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Syllabus Question Papers and Study Material",
+        "information": "Syllabus Question Papers and Study Material"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Publication",
+        "information": "Publication"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Books",
+        "information": "Books"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Forms",
+        "information": "Forms"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Other Books Manuals and Forms",
+        "information": "Other Books Manuals and Forms"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Grievence and RTI",
+        "information": "Grievence and RTI"
+    },
+    {
+        "tag": "a",
+        "tooltip": "CPGRAMS",
+        "information": "CPGRAMS"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Right To Information Act",
+        "information": "Right To Information Act"
+    },
+    {
+        "tag": "a",
+        "tooltip": "CPIO Appellate Authority List",
+        "information": "CPIO Appellate Authority List"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Proactive Disclosure",
+        "information": "Proactive Disclosure"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Tender",
+        "information": "Tender"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Events & News",
+        "information": "Events & News"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Events",
+        "information": "Events"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Azadi Ka Amrit Mahotsav",
+        "information": "Azadi Ka Amrit Mahotsav"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Latest Launches and inauguration",
+        "information": "Latest Launches and inauguration"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Civil Accounts Day",
+        "information": "Civil Accounts Day"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Workshop and Training",
+        "information": "Workshop and Training"
+    },
+    {
+        "tag": "a",
+        "tooltip": "News",
+        "information": "News"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Latest News",
+        "information": "Latest News"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Related Links ",
+        "information": "Related Links"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Related Link",
+        "information": "Related Link"
+    },
+    {
+        "tag": "a",
+        "tooltip": "SPARROW",
+        "information": "SPARROW"
+    },
+    {
+        "tag": "a",
+        "tooltip": "TSA Guidelines",
+        "information": "TSA Guidelines"
+    },
+    {
+        "tag": "a",
+        "tooltip": "GST Related Orders and Circulars",
+        "information": "GST Related Orders and Circulars"
+    },
+    {
+        "tag": "a",
+        "tooltip": "eOffice",
+        "information": "eOffice"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Contact Us ",
+        "information": "Contact Us"
+    },
+    {
+        "tag": "a",
+        "tooltip": "e-Lekha",
+        "information": "e-Lekha"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Photo Gallery",
+        "information": "Photo Gallery"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Photo Gallery Archive",
+        "information": "Photo Gallery Archive"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Events Archive",
+        "information": "Events Archive"
+    },
+    {
+        "tag": "a",
+        "tooltip": "PFMS",
+        "information": "PFMS"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Non-Tax Receipt Portal - NTRP",
+        "information": "Non-Tax Receipt Portal - NTRP"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Treasury Single Account-TSA",
+        "information": "Treasury Single Account-TSA"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Compact Software Support",
+        "information": "Compact Software Support"
+    },
+    {
+        "tag": "a",
+        "tooltip": "GePG",
+        "information": "GePG"
+    },
+    {
+        "tag": "a",
+        "tooltip": "6th CPC e-Revision",
+        "information": "6th CPC e-Revision"
+    },
+    {
+        "tag": "a",
+        "tooltip": "APMS",
+        "information": "APMS"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Monthly DO Submission",
+        "information": "Monthly DO Submission"
+    },
+    {
+        "tag": "img",
+        "tooltip": "financial  reports",
+        "information": "Financial  Reports"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Financial  Reports",
+        "information": "Financial  Reports"
+    },
+    {
+        "tag": "img",
+        "tooltip": "internal audit",
+        "information": "Internal Audit"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Internal Audit",
+        "information": "Internal Audit"
+    },
+    {
+        "tag": "img",
+        "tooltip": "orders or circulars",
+        "information": "Orders or Circulars"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Orders or Circulars",
+        "information": "Orders or Circulars"
+    },
+    {
+        "tag": "img",
+        "tooltip": "human resource",
+        "information": "Human Resource"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Human Resource",
+        "information": "Human Resource"
+    },
+    {
+        "tag": "img",
+        "tooltip": "tenders",
+        "information": "Tenders"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Tenders",
+        "information": "Tenders"
+    },
+    {
+        "tag": "img",
+        "tooltip": "examination ",
+        "information": "Examination"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Examination ",
+        "information": "Examination"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Timely submission of requests of Senior Accounts Officer for NOC/cadre clearance to visit abroad OM No 492 Dated Dated 3rd February 2025",
+        "information": "Timely submission of requests of Senior Accounts Officer for NOC/cadre clearance to visit abroad OM No 492 Dated Dated 3rd February 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Updation of Gradation List of Senior Private Secretary/Private Secretary/Stenographer I/Stenographer Grade II OM No 630 Dated 31st January 2025",
+        "information": "Updation of Gradation List of Senior Private Secretary/Private Secretary/Stenographer I/Stenographer Grade II OM No 630 Dated 31st January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Rollout of e-bill in EIS Module and training for DDOs Ahmedabad OM No 613-655 Dated 31st January 2025",
+        "information": "Rollout of e-bill in EIS Module and training for DDOs Ahmedabad OM No 613-655 Dated 31st January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Automation of Annual Accounts on PFMS - Appropriation Accounts OM No 3051 Dated 30th January 2025",
+        "information": "Automation of Annual Accounts on PFMS - Appropriation Accounts OM No 3051 Dated 30th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Comprehensive Annual Internal Audit Plan including Risk Based Audit for the financial year 2025-26 OM No 768-69 Dated 30th January 2025",
+        "information": "Comprehensive Annual Internal Audit Plan including Risk Based Audit for the financial year 2025-26 OM No 768-69 Dated 30th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Frequently raised queries FAQs on the revised procedure of fund flow under Central Sector Schemes in TSA Hybrid OM No 360-361 Dated 29th January 2025",
+        "information": "Frequently raised queries FAQs on the revised procedure of fund flow under Central Sector Schemes in TSA Hybrid OM No 360-361 Dated 29th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "User Manual for Project wise release and monitoring of funds under Central Sector Schemes through TSA/TSA Hybrid OM No 354-357 Dated 29th January 2025",
+        "information": "User Manual for Project wise release and monitoring of funds under Central Sector Schemes through TSA/TSA Hybrid OM No 354-357 Dated 29th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of Senior Accounts Officer Order No 02 of 2025 Dated 29th January 2025",
+        "information": "Transfer/posting of Senior Accounts Officer Order No 02 of 2025 Dated 29th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Advisory to all PFMS users regarding safety and security measures for safeguarding digital data OM No 5744 Dated 29th January 2025",
+        "information": "Advisory to all PFMS users regarding safety and security measures for safeguarding digital data OM No 5744 Dated 29th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Additional Charge of LWO Labour Jabalpur OM No 695 Dated 28th January 2025",
+        "information": "Additional Charge of LWO Labour Jabalpur OM No 695 Dated 28th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Engagement of 02 retired Officers SrAO/AO/AAO empanelled with O/o CGA as consultants for Internal Audit Wing of MEITY Circular No 15198 Dated 28th January 2025",
+        "information": "Engagement of 02 retired Officers SrAO/AO/AAO empanelled with O/o CGA as consultants for Internal Audit Wing of MEITY Circular No 15198 Dated 28th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer and Posting Order of ICAS Officer of 1998 Batch Order No 4041-57 Dated 28th January 2025 ",
+        "information": "Transfer and Posting Order of ICAS Officer of 1998 Batch Order No 4041-57 Dated 28th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Induction training of Accountants and Senior Accountants - reg OM No 176 of 2025 Dated 28th January 2025",
+        "information": "Induction training of Accountants and Senior Accountants - reg OM No 176 of 2025 Dated 28th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Standard Operating Procedure on DBT using Intra Bank Transfer of Funds from TSA/TSA Hybrid Account to Non-TSA/Non-TSA Hybrid Account within same agency OM No 351-352 Dated 28th January 2025",
+        "information": "Standard Operating Procedure on DBT using Intra Bank Transfer of Funds from TSA/TSA Hybrid Account to Non-TSA/Non-TSA Hybrid Account within same agency OM No 351-352 Dated 28th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of Senior Accounts Officer Order No 01 of 2025 Dated 27th January 2025",
+        "information": "Transfer/posting of Senior Accounts Officer Order No 01 of 2025 Dated 27th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Posting Order of Ms Samya Bhushan ICAS 2018 Batch Order No 4009-23 Dated 24th January 2025 ",
+        "information": "Posting Order of Ms Samya Bhushan ICAS 2018 Batch Order No 4009-23 Dated 24th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Nomination of Sh Sandeep R Pai Sr AO as additional member of Invitation Committee constituted for organizing 49th Civil Accounts Day on 01/03/2025 OM No 2888-2891 Dated 27th January 2025",
+        "information": "Nomination of Sh Sandeep R Pai Sr AO as additional member of Invitation Committee constituted for organizing 49th Civil Accounts Day on 01/03/2025 OM No 2888-2891 Dated 27th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "1 Promotion of AAOs as SrAO 2 Induction of Sr AO into JTS of ICAS OM No 495 Dated 22nd January 2025 ",
+        "information": "1 Promotion of AAOs as SrAO 2 Induction of Sr AO into JTS of ICAS OM No 495 Dated 22nd January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "User guide for the users in the Principal Accounts Office to change the nomenclature of Accounting Heads OM No 41 Dated 8th May 2024 ",
+        "information": "User guide for the users in the Principal Accounts Office to change the nomenclature of Accounting Heads OM No 41 Dated 8th May 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of Group C staff for the Vacancy Year 2025 - regarding OM No 125 of 2025 Dated 24th January 2025",
+        "information": "Promotion of Group C staff for the Vacancy Year 2025 - regarding OM No 125 of 2025 Dated 24th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Additional Charge of Assistant Accounts Officer OM No 499 Dated 23rd January 2025 ",
+        "information": "Additional Charge of Assistant Accounts Officer OM No 499 Dated 23rd January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Allocation of Residential Flats to ICAS Officers OM No 2820 Dated 21st January 2025",
+        "information": "Allocation of Residential Flats to ICAS Officers OM No 2820 Dated 21st January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Request for dropping of old balances under M H 8008 and 8443 in respect of three PAOs ie Ghazipur Gwalior and Neemuch opium offices after the transfer of these three PAOs to MoF DoE Letter No 471 Dated 23rd January 2025",
+        "information": "Request for dropping of old balances under M H 8008 and 8443 in respect of three PAOs ie Ghazipur Gwalior and Neemuch opium offices after the transfer of these three PAOs to MoF DoE Letter No 471 Dated 23rd January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "1 Promotion of AAOs as SrAO 2 Induction of Sr AO into JTS of ICAS Corrigendum No 471 Dated 23rd January 2025 ",
+        "information": "1 Promotion of AAOs as SrAO 2 Induction of Sr AO into JTS of ICAS Corrigendum No 471 Dated 23rd January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Rollout of e-bill in EIS Module and training for DDOs Phase-III - reg OM No 587 Dated 21st January 2025 ",
+        "information": "Rollout of e-bill in EIS Module and training for DDOs Phase-III - reg OM No 587 Dated 21st January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "1 Promotion of AAOs as SrAO 2 Induction of Sr AO into JTS of ICAS OM No Dated 22nd January 2025",
+        "information": "1 Promotion of AAOs as SrAO 2 Induction of Sr AO into JTS of ICAS OM No Dated 22nd January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Listing of Object Heads 31 33 35 36 54 55 for selection in Expenditure type Sanction for all CNA models OM No 348-350 Dated 22nd January 2025",
+        "information": "Listing of Object Heads 31 33 35 36 54 55 for selection in Expenditure type Sanction for all CNA models OM No 348-350 Dated 22nd January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": " Filling up of vacancies on Deputation Basis Circular No 470 Dated 21st January 2025 ",
+        "information": "Filling up of vacancies on Deputation Basis Circular No 470 Dated 21st January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Appointment order of ICAS Officer of 2015 Batch Order No 3953-62 Dated 21st January 2025",
+        "information": "Appointment order of ICAS Officer of 2015 Batch Order No 3953-62 Dated 21st January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Posting Order of ICAS Officer of 2001 Batch Order No 3936-57 Dated 20th January 2025 ",
+        "information": "Posting Order of ICAS Officer of 2001 Batch Order No 3936-57 Dated 20th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Posting Order of ICAS Officer of 1998 Batch Order No 3919-35 Dated 20th January 2025 ",
+        "information": "Posting Order of ICAS Officer of 1998 Batch Order No 3919-35 Dated 20th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Posting Order of Sh Rajesh Kumar ICAS 1993 Batch Order No 3891-3909 Dated 20th January 2025 ",
+        "information": "Posting Order of Sh Rajesh Kumar ICAS 1993 Batch Order No 3891-3909 Dated 20th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion Order of Sh Rajesh Kumar ICAS 1993 Batch Order No 3872-90 Dated 20th January 2025 ",
+        "information": "Promotion Order of Sh Rajesh Kumar ICAS 1993 Batch Order No 3872-90 Dated 20th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Posting Order of Sh Binod Kumar ICAS 1993 Batch Order No 3852-71 Dated 20th January 2025",
+        "information": "Posting Order of Sh Binod Kumar ICAS 1993 Batch Order No 3852-71 Dated 20th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion Order of Sh Binod Kumar ICAS 1993 Batch Order No 3832-51 Dated 20th January 2025",
+        "information": "Promotion Order of Sh Binod Kumar ICAS 1993 Batch Order No 3832-51 Dated 20th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "PFMS training schedule for the month of February 2025 OM 5564-613 Dated 17th January 2025",
+        "information": "PFMS training schedule for the month of February 2025 OM 5564-613 Dated 17th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Automation of Annual Accounts on PFMS Appropriation Accounts reg OM 3149 Dated 20 January 2025",
+        "information": "Automation of Annual Accounts on PFMS Appropriation Accounts reg OM 3149 Dated 20 January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Training for Prgram Division of Ministries or Departments handling Centrally Sponsered Schemes under SNA Sparsh OM 844 dated 20 January 2025",
+        "information": "Training for Prgram Division of Ministries or Departments handling Centrally Sponsered Schemes under SNA Sparsh OM 844 dated 20 January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Observations in the Accounting of Central Government Employees Group Insurance Scheme-1980 CGEGIS -reg OM No 510 Dated 17th January 2025",
+        "information": "Observations in the Accounting of Central Government Employees Group Insurance Scheme-1980 CGEGIS -reg OM No 510 Dated 17th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Status of March 30 2025 for Government transactions - regarding OM No 1313-17 Dated 17th January 2025",
+        "information": "Status of March 30 2025 for Government transactions - regarding OM No 1313-17 Dated 17th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Online training courses on iGoT Karmayogi Platform - regarding OM No 3817-22 Dated 17th January 2025",
+        "information": "Online training courses on iGoT Karmayogi Platform - regarding OM No 3817-22 Dated 17th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Offline Induction Training Programme of SrAOs - reg OM No 467 Dated 16th January 2025",
+        "information": "Offline Induction Training Programme of SrAOs - reg OM No 467 Dated 16th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Strengthening of Administration - Periodical review of Central Government Employees under FR J and rule 48 of CCS Pension Rules 1972 OM No 684 Dated 15th January 2025",
+        "information": "Strengthening of Administration - Periodical review of Central Government Employees under FR J and rule 48 of CCS Pension Rules 1972 OM No 684 Dated 15th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Amendment in Subsidiary Instructions to the Central Government Accounts Receipts and Payments Rules 2022 Correction Slip No 2 Dated 15th January 2025",
+        "information": "Amendment in Subsidiary Instructions to the Central Government Accounts Receipts and Payments Rules 2022 Correction Slip No 2 Dated 15th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Organizing Mid-Career Training Offline Session for SrAOs - reg OM No 463 Dated 15th January 2025",
+        "information": "Organizing Mid-Career Training Offline Session for SrAOs - reg OM No 463 Dated 15th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Zone-wise vacancy of Accountants/SrAccountants- reg OM No 162 of 2025 Dated 15th January 2025",
+        "information": "Zone-wise vacancy of Accountants/SrAccountants- reg OM No 162 of 2025 Dated 15th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Arrangement of Link Officer in respect of SrAOs PFMS Mizoram and PFMS Meghalaya-regarding OM No683 Dated 15th January 2025 ",
+        "information": "Arrangement of Link Officer in respect of SrAOs PFMS Mizoram and PFMS Meghalaya-regarding OM No683 Dated 15th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Training of officials of PrAOs of Ministries/Departments for online submission of Stage I and Stage II of Headwise Appropriation Accounts on PFMS OM No 3147 Dated 14th January 2025",
+        "information": "Training of officials of PrAOs of Ministries/Departments for online submission of Stage I and Stage II of Headwise Appropriation Accounts on PFMS OM No 3147 Dated 14th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Additional Charge of Assistant Accounts Officer OM No 682 Dated 15th January 2025",
+        "information": "Additional Charge of Assistant Accounts Officer OM No 682 Dated 15th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Arrangement of Link Officer in respect of SrAOs-regarding OM No 680 Dated 14th January 2025",
+        "information": "Arrangement of Link Officer in respect of SrAOs-regarding OM No 680 Dated 14th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Introduction of QR Code as additional mode of collection under BharatKosh OM No 5517 Dated 10th January 2025",
+        "information": "Introduction of QR Code as additional mode of collection under BharatKosh OM No 5517 Dated 10th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Non-relieving of AAOs/SrAOs under Transfer - reg OM No 676 Dated 13th January 2025",
+        "information": "Non-relieving of AAOs/SrAOs under Transfer - reg OM No 676 Dated 13th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Induction Training for Senior Accountants - reg OM No 160 of 2025 Dated 13th January 2025 ",
+        "information": "Induction Training for Senior Accountants - reg OM No 160 of 2025 Dated 13th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Actions Taken after Meetings conducted by Task force for Review and Clearance of Suspense Balances OM No 611-637 Dated 9th January 2025",
+        "information": "Actions Taken after Meetings conducted by Task force for Review and Clearance of Suspense Balances OM No 611-637 Dated 9th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Celebration of 49th Civil Accounts Day on 1st March 2025 OM No 2742 Dated 10th January 2025 ",
+        "information": "Celebration of 49th Civil Accounts Day on 1st March 2025 OM No 2742 Dated 10th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Induction Training for Accountants - reg OM No 155 of 2025 Dated 8th January 2025",
+        "information": "Induction Training for Accountants - reg OM No 155 of 2025 Dated 8th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Additional charge of ZAO CBDT Bangalore OM No 666 Dated 8th January 2025",
+        "information": "Additional charge of ZAO CBDT Bangalore OM No 666 Dated 8th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Collection of information in respect of Sr Accountant Group-B Non-Gazetted from Ministries/Departments - reg OM No 154 of 2025 Dated 8th January 2025",
+        "information": "Collection of information in respect of Sr Accountant Group-B Non-Gazetted from Ministries/Departments - reg OM No 154 of 2025 Dated 8th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "CAM Procedure for returning bills unpassed - reg OM No 12 Dated 7th January 2025",
+        "information": "CAM Procedure for returning bills unpassed - reg OM No 12 Dated 7th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Quarterly Training Calendar IV Quarter of INGAF for FY 2024-25 OM No 1455 Dated 7th January 2025",
+        "information": "Quarterly Training Calendar IV Quarter of INGAF for FY 2024-25 OM No 1455 Dated 7th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Induction Training for Accountants - reg OM No 153 of 2025 Dated 7th January 2025",
+        "information": "Induction Training for Accountants - reg OM No 153 of 2025 Dated 7th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Departmental Confirmatory Examination for Accountant 2025 to be held on 19/01/2025-reg Notification No 3439 Dated 7th January 2025",
+        "information": "Departmental Confirmatory Examination for Accountant 2025 to be held on 19/01/2025-reg Notification No 3439 Dated 7th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Panel for promotion of Private Secretary to the post of Senior Private Secretary for the vacancy year 2025 OM No 568 Dated 7th January 2025",
+        "information": "Panel for promotion of Private Secretary to the post of Senior Private Secretary for the vacancy year 2025 OM No 568 Dated 7th January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "APAR Dossier of AAOs for holding DPC for promotion as SrAOs for the Vacancy Year 2024/2025-regarding OM No 451 Dated 3rd January 2025",
+        "information": "APAR Dossier of AAOs for holding DPC for promotion as SrAOs for the Vacancy Year 2024/2025-regarding OM No 451 Dated 3rd January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "List of Major and Minor Heads of Account of Union and States LMMH",
+        "information": "List of Major and Minor Heads of Account of Union and States LMMH"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Work Allocation in respect of Dy CGAs/ACGAs Order No 2654-2662 Dated 3rd January 2025",
+        "information": "Work Allocation in respect of Dy CGAs/ACGAs Order No 2654-2662 Dated 3rd January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of AAO at Delhi station - regarding OM No 660 Dated 3rd January 2025",
+        "information": "Transfer/posting of AAO at Delhi station - regarding OM No 660 Dated 3rd January 2025"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Standard Operating Procedure for Reconciliation of Unaccounted Bharatkosh Receipts Received Through NEFT/RTGS Mode OM No 342 Dated 31st December 2024",
+        "information": "Standard Operating Procedure for Reconciliation of Unaccounted Bharatkosh Receipts Received Through NEFT/RTGS Mode OM No 342 Dated 31st December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Appointment of AAO C Supplementary Examination 2018 passed officials as Assistant Accounts Officer in Departmentalized Accounting Organisations OM No 655 Dated 31st December 2024 ",
+        "information": "Appointment of AAO C Supplementary Examination 2018 passed officials as Assistant Accounts Officer in Departmentalized Accounting Organisations OM No 655 Dated 31st December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Appointment of AAO C Supplementary Examination 2018 passed officials as Assistant Accounts Officer in Departmentalized Accounting Organisations OM No 654 Dated 31st December 2024 ",
+        "information": "Appointment of AAO C Supplementary Examination 2018 passed officials as Assistant Accounts Officer in Departmentalized Accounting Organisations OM No 654 Dated 31st December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Appointment of ICAS officers of 2015 Batch to the Junior Administrative Grade JAG of level 12 Order No 3638-3654 Dated 31st December 2024",
+        "information": "Appointment of ICAS officers of 2015 Batch to the Junior Administrative Grade JAG of level 12 Order No 3638-3654 Dated 31st December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of ICAS Officers Order No 3617-3637 Dated 31st December 2024",
+        "information": "Promotion of ICAS Officers Order No 3617-3637 Dated 31st December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Appointment of ICAS Officers to the Senior Time Scale of ICAS Order No 3596-3616  Dated 31st December 2022",
+        "information": "Appointment of ICAS Officers to the Senior Time Scale of ICAS Order No 3596-3616  Dated 31st December 2022"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Placement of ICAS officers of 2012 Batch in the Selection Grade Non Function of the Junior Administrative Grade in the scale of level 13 Order No 3575-92 Dated 31st December 2024 ",
+        "information": "Placement of ICAS officers of 2012 Batch in the Selection Grade Non Function of the Junior Administrative Grade in the scale of level 13 Order No 3575-92 Dated 31st December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Posting Order of ICAS Officers Order No 3544-3555 Dated 31st December 2024 ",
+        "information": "Posting Order of ICAS Officers Order No 3544-3555 Dated 31st December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Panel for promotion of Stenographer Grade-I to the post of Private Secretary for the Vacancy year 2025 OM No 557 Dated 31st December 2024 ",
+        "information": "Panel for promotion of Stenographer Grade-I to the post of Private Secretary for the Vacancy year 2025 OM No 557 Dated 31st December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Rollout of e-bill in EIS Module and training for Delhi- based DDOs Phase-II - reg OM No 513-533 Dated 31st December 2024",
+        "information": "Rollout of e-bill in EIS Module and training for Delhi- based DDOs Phase-II - reg OM No 513-533 Dated 31st December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of Accountant to the post of Senior Accountant on seniority-cum-fitness basis for the Vacancy Year 2025 OM No 140 of 2024 Dated 30th December 2024",
+        "information": "Promotion of Accountant to the post of Senior Accountant on seniority-cum-fitness basis for the Vacancy Year 2025 OM No 140 of 2024 Dated 30th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Adherence to MEP/QEP and cash management guidelines - reg OM No 425 Dated 26th December 2024",
+        "information": "Adherence to MEP/QEP and cash management guidelines - reg OM No 425 Dated 26th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Mandatory training for AAO under consideration for promotion as SrAOs-reg OM No 431 Dated 26th December 2024 ",
+        "information": "Mandatory training for AAO under consideration for promotion as SrAOs-reg OM No 431 Dated 26th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Allotment of New Account Codes for the Financial Year 2025-26 OM No 460 Dated 24th December 2024 ",
+        "information": "Allotment of New Account Codes for the Financial Year 2025-26 OM No 460 Dated 24th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Additional Charge of PAO SEZ Ministry of Commerce Kandla OM dated 23rd December 2024",
+        "information": "Additional Charge of PAO SEZ Ministry of Commerce Kandla OM dated 23rd December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "PFMS Training Schedule for the month of January 2025 OM No 4980-5029 Dated 23rd December 2024 ",
+        "information": "PFMS Training Schedule for the month of January 2025 OM No 4980-5029 Dated 23rd December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Departmental Confirmatory Examination for Accountant 2025 to be held on 19th January 2025 reg Notification dated 23 December 2024",
+        "information": "Departmental Confirmatory Examination for Accountant 2025 to be held on 19th January 2025 reg Notification dated 23 December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Link Officer arrangement of AAO OM No 629 Dated 20th December 2024",
+        "information": "Link Officer arrangement of AAO OM No 629 Dated 20th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Inter Ministry Transfer of Senior Accounts Officer OM No 628 Dated 20th December 2024",
+        "information": "Inter Ministry Transfer of Senior Accounts Officer OM No 628 Dated 20th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of Senior Accounts Officer Order No 48 of 2024",
+        "information": "Transfer/posting of Senior Accounts Officer Order No 48 of 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Online Submission of Immovable Property Return IPR on SPARROW for AAOs and SrAOs as on 01/01/2025 for the ending year 31/12/2024 - regarding OM No 426 Dated 20th December 2024 ",
+        "information": "Online Submission of Immovable Property Return IPR on SPARROW for AAOs and SrAOs as on 01/01/2025 for the ending year 31/12/2024 - regarding OM No 426 Dated 20th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Mandatory training for AAO under consideration for promotion as SrAOs-reg OM No 424 Dated 19th December 2024",
+        "information": "Mandatory training for AAO under consideration for promotion as SrAOs-reg OM No 424 Dated 19th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of Senior Accounts Officer Order No 47 of 2024 Dated 18th December 2024",
+        "information": "Transfer/posting of Senior Accounts Officer Order No 47 of 2024 Dated 18th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Inter Ministry Transfer of Assistant Accounts Officer OM No 621 Dated 18th December 2024",
+        "information": "Inter Ministry Transfer of Assistant Accounts Officer OM No 621 Dated 18th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of Lower Division Clerk to the post of Accountant on seniority-cum-fitness basis 25 percentage quota for the vacancy year 2025 OM No 136/2024 Dated 17th December 2024 ",
+        "information": "Promotion of Lower Division Clerk to the post of Accountant on seniority-cum-fitness basis 25 percentage quota for the vacancy year 2025 OM No 136/2024 Dated 17th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of Multi-Tasking Staff to the post of Lower Division Clerk on seniority-cum-fitness basis 5 percentage quota for the Vacancy Year 2025 OM No 135/2024 Dated 17th December 2024 ",
+        "information": "Promotion of Multi-Tasking Staff to the post of Lower Division Clerk on seniority-cum-fitness basis 5 percentage quota for the Vacancy Year 2025 OM No 135/2024 Dated 17th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of Stenographer Grade-I Pay Level 6 as Private Secretary Pay Level 7 Order No 511 Dated 16th December 2024",
+        "information": "Promotion of Stenographer Grade-I Pay Level 6 as Private Secretary Pay Level 7 Order No 511 Dated 16th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Deputation for the post of Director Finance at 1200 MV Punatsangchhu-II hydropower project in Bhutan- Inviting application OM No 3447-48 Dated 16th December 2024",
+        "information": "Deputation for the post of Director Finance at 1200 MV Punatsangchhu-II hydropower project in Bhutan- Inviting application OM No 3447-48 Dated 16th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Posting Order of ICAS Officer Order No 3425-35 Dated 13th December 2024 ",
+        "information": "Posting Order of ICAS Officer Order No 3425-35 Dated 13th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of Senior Accounts Officer Order No 46/2024 Dated 16th December 2024",
+        "information": "Transfer/posting of Senior Accounts Officer Order No 46/2024 Dated 16th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Additional Charge of LWO M/o Labour Jabalpur OM No 612 Dated 16thy December 2024",
+        "information": "Additional Charge of LWO M/o Labour Jabalpur OM No 612 Dated 16thy December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of qualified candidates MTS of Limited Department Qualifying Examination as LDC under 10 percentage LDQE quota for the vacancy year 2025 - regarding OM No 134 of 24 Dated 13th December 2024",
+        "information": "Promotion of qualified candidates MTS of Limited Department Qualifying Examination as LDC under 10 percentage LDQE quota for the vacancy year 2025 - regarding OM No 134 of 24 Dated 13th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Posting Order of ICAS Officer of 2019 Batch Order No 3392-3403 Dated 12th December 2024 ",
+        "information": "Posting Order of ICAS Officer of 2019 Batch Order No 3392-3403 Dated 12th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "CAM procedure for returning bills unpassed-reg",
+        "information": "CAM procedure for returning bills unpassed-reg"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Gradation List of Assistant Accounts Officers as on 01/01/2024 OM No 609 Dated 12th December 2024",
+        "information": "Gradation List of Assistant Accounts Officers as on 01/01/2024 OM No 609 Dated 12th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Work Allocation/Link Officer arrangement in r/o Jt CGAs Ms Deepika Jain CC Pension Order No 2395-2404 Dated 10th December 2024 ",
+        "information": "Work Allocation/Link Officer arrangement in r/o Jt CGAs Ms Deepika Jain CC Pension Order No 2395-2404 Dated 10th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Mandatory training for AAO under consideration for promotion as SrAOs-reg OM No 409 Dated 10th December 2024",
+        "information": "Mandatory training for AAO under consideration for promotion as SrAOs-reg OM No 409 Dated 10th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of Senior Accounts Officer Order No 45 of 2024 Dated 10th December 2024",
+        "information": "Transfer/posting of Senior Accounts Officer Order No 45 of 2024 Dated 10th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Mission Recruitment - Next event of Rozgar Mela to be held on 21/12/2024 - regarding OM No 132 of 2024 Dated 10th December 2024 ",
+        "information": "Mission Recruitment - Next event of Rozgar Mela to be held on 21/12/2024 - regarding OM No 132 of 2024 Dated 10th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Vacany Circular for the post of Deputy Director Circular No 404 Dated 10th December 2024 ",
+        "information": "Vacany Circular for the post of Deputy Director Circular No 404 Dated 10th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Online E-bill training programme for implementation of e-bill module of PFMS in Ministries/Departments - reg OM No 481 Dated 9th December 2024",
+        "information": "Online E-bill training programme for implementation of e-bill module of PFMS in Ministries/Departments - reg OM No 481 Dated 9th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Guidelines concerning identification of posts for persons with benchmark disabilities and their reservation in the Central Government Esablishments for the effective implementation of the Rights of Persons with disabilities Act 2016 RPwD Act 2016",
+        "information": "Guidelines concerning identification of posts for persons with benchmark disabilities and their reservation in the Central Government Esablishments for the effective implementation of the Rights of Persons with disabilities Act 2016 RPwD Act 2016"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Online Submission of Immovable Property Return IPR on SPARROW for Indian Civil Accounts Service ICAS as on 01/01/2025 for the Year Ending 31/12/2024 OM No 3331 Dated 6th December 2024 ",
+        "information": "Online Submission of Immovable Property Return IPR on SPARROW for Indian Civil Accounts Service ICAS as on 01/01/2025 for the Year Ending 31/12/2024 OM No 3331 Dated 6th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of Senior Accounts Officer Order No 44 of 2024 Dated 6th December 2024",
+        "information": "Transfer/posting of Senior Accounts Officer Order No 44 of 2024 Dated 6th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "1 Promotion of AAOs as SrAO 2 Induction of SrAO into JTS of ICAS OM No 402 Dated 6th December 2024",
+        "information": "1 Promotion of AAOs as SrAO 2 Induction of SrAO into JTS of ICAS OM No 402 Dated 6th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Inter Ministry Transfer of Assistant Accounts Officer OM No 605 Dated 6th December 2024",
+        "information": "Inter Ministry Transfer of Assistant Accounts Officer OM No 605 Dated 6th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Submission of Pension cases in single Pension application Form 6-A in respect of Central Government retiring officials through Bhavishya OM No 431-475 Dated 5th December 2024",
+        "information": "Submission of Pension cases in single Pension application Form 6-A in respect of Central Government retiring officials through Bhavishya OM No 431-475 Dated 5th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of Stenographer Grade-I Pay Level 6 as Private Secretary Pay Level 7 Corrigendum No 494 Dated 5th December 2024 ",
+        "information": "Promotion of Stenographer Grade-I Pay Level 6 as Private Secretary Pay Level 7 Corrigendum No 494 Dated 5th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Additional Charge of ZAO CBDT at Indore Nashik and Ranchi OM No 597 Dated 4th December 2024",
+        "information": "Additional Charge of ZAO CBDT at Indore Nashik and Ranchi OM No 597 Dated 4th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Additional Charge of PAO BNP M/o Finance Dewas OM No 596 Dated 4th December 2024",
+        "information": "Additional Charge of PAO BNP M/o Finance Dewas OM No 596 Dated 4th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Additional Charge of PAO CBIC Tirunelveli OM No 595 Dated 4th December 2024",
+        "information": "Additional Charge of PAO CBIC Tirunelveli OM No 595 Dated 4th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of Senior Accounts Officer Order No 40 of 2024 Dated 4th December 2024",
+        "information": "Transfer/posting of Senior Accounts Officer Order No 40 of 2024 Dated 4th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Mandatory training for AAO under consideration for promotion as SrAOs reg OM No 400 Dated 4th December 2024",
+        "information": "Mandatory training for AAO under consideration for promotion as SrAOs reg OM No 400 Dated 4th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Collection of information in respect of Sr Accountant Group-B Non-Gazetted from Ministries/Departments - reg OM No 130 of 2024 Dated 4th December 2024 ",
+        "information": "Collection of information in respect of Sr Accountant Group-B Non-Gazetted from Ministries/Departments - reg OM No 130 of 2024 Dated 4th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of Stenographer Grade-I Pay Level 6 as Private Secretary Pay Level 7 Order No 491 Dated 4th December 2024 ",
+        "information": "Promotion of Stenographer Grade-I Pay Level 6 as Private Secretary Pay Level 7 Order No 491 Dated 4th December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Encadrement of two 02 posts in Indian Civil Accounts Service ICAS - reg OM No 3286-99 Dated 3rd December 2024",
+        "information": "Encadrement of two 02 posts in Indian Civil Accounts Service ICAS - reg OM No 3286-99 Dated 3rd December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Departmental Confirmatory Examination for Accountants January 2025 to be held on 19/01/2025 - reg OM No 3289 Dated 3rd December 2024",
+        "information": "Departmental Confirmatory Examination for Accountants January 2025 to be held on 19/01/2025 - reg OM No 3289 Dated 3rd December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of Multi-Tasking Staff to the post of Lower Division Clerk on seniority-cum-fitness basis 5 percentage quota for the Vacancy Year 2025 OM No 129/2024 Dated 2nd December 2024 ",
+        "information": "Promotion of Multi-Tasking Staff to the post of Lower Division Clerk on seniority-cum-fitness basis 5 percentage quota for the Vacancy Year 2025 OM No 129/2024 Dated 2nd December 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Standard Operating Procedure on Deduction Settlement in TSA/TSA Hybrid OM No 284-324 Dated 27th November 2024",
+        "information": "Standard Operating Procedure on Deduction Settlement in TSA/TSA Hybrid OM No 284-324 Dated 27th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Standard Operating Procedure on DBT using Intra Bank Transfer of Funds from TSA/TSA Hybrid Account to Non-TSA/Non-TSA Hybrid Account within same agency OM No 245-283 Dated 27th November 2024",
+        "information": "Standard Operating Procedure on DBT using Intra Bank Transfer of Funds from TSA/TSA Hybrid Account to Non-TSA/Non-TSA Hybrid Account within same agency OM No 245-283 Dated 27th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Rollout of e-bill in EIS Module and training for Delhi-based DDOs - reg OM No 424-464 Dated 27th November 2024",
+        "information": "Rollout of e-bill in EIS Module and training for Delhi-based DDOs - reg OM No 424-464 Dated 27th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Mandatory training for AAOs under consideration zone for promotion as SrAO OM No 396 Dated 28th November 2024",
+        "information": "Mandatory training for AAOs under consideration zone for promotion as SrAO OM No 396 Dated 28th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Standard Operating Procedure for scheduled Commercial Banks for onboarding of schemes under CNA Model-1/1A for smooth implementation of TSA Hybrid System OM No 202 Dated 26th November 2024 ",
+        "information": "Standard Operating Procedure for scheduled Commercial Banks for onboarding of schemes under CNA Model-1/1A for smooth implementation of TSA Hybrid System OM No 202 Dated 26th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Appointment of AAO C CBT 2022 passed officials as Assistant Accounts Officer in Departmentalized Accounting Organisations OM No 589 Dated 28th November 2024 ",
+        "information": "Appointment of AAO C CBT 2022 passed officials as Assistant Accounts Officer in Departmentalized Accounting Organisations OM No 589 Dated 28th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "APAR Dossier of AAOs for holding DPC for promotion as Sr AOs for the Vacancy Year 2024/2025-regarding OM No 394 Dated 27th November 2024 ",
+        "information": "APAR Dossier of AAOs for holding DPC for promotion as Sr AOs for the Vacancy Year 2024/2025-regarding OM No 394 Dated 27th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of Stenographer Grade-I Pay Level 6 as Private Secretary Pay Level 7 Order No 483 Dated 27th November 2024 ",
+        "information": "Promotion of Stenographer Grade-I Pay Level 6 as Private Secretary Pay Level 7 Order No 483 Dated 27th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Inter Ministry transfer of Stenographer Cadre Order No 482 Dated 27th November 2024 ",
+        "information": "Inter Ministry transfer of Stenographer Cadre Order No 482 Dated 27th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of Private Secretary Pay Level 7 as Sr Private Secretary Pay Level 8 OM No 481 Dated 27th November 2024 ",
+        "information": "Promotion of Private Secretary Pay Level 7 as Sr Private Secretary Pay Level 8 OM No 481 Dated 27th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "CAM procedure for returning bills unpassed-reg OM No 377 Dated 27th November 2024",
+        "information": "CAM procedure for returning bills unpassed-reg OM No 377 Dated 27th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "PFMS Training Schedule for the month of December 2024 OM No 4520-69 Dated 21st November 2024 ",
+        "information": "PFMS Training Schedule for the month of December 2024 OM No 4520-69 Dated 21st November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Additional Charge of Assistant Accounts Officer OM No 574 Dated 26th November 2024 ",
+        "information": "Additional Charge of Assistant Accounts Officer OM No 574 Dated 26th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Grant of financial upgradations to Private Secretary under Modified Assured Career Progression Scheme OM No 477 Dated 26th November 2024",
+        "information": "Grant of financial upgradations to Private Secretary under Modified Assured Career Progression Scheme OM No 477 Dated 26th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Inviting Applications for filling up the posts of Section Officer / Accounts Officer in Pay level 10 in IFD M/o External Affairs on Deputation basis Circular No 389 dated 25th Nov 2024",
+        "information": "Inviting Applications for filling up the posts of Section Officer / Accounts Officer in Pay level 10 in IFD M/o External Affairs on Deputation basis Circular No 389 dated 25th Nov 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Appointment of AAO Civil CBT 2022 passed officials as AAO in Departmentalized Accounting Organisations OM No 571 dated 25th November 2024",
+        "information": "Appointment of AAO Civil CBT 2022 passed officials as AAO in Departmentalized Accounting Organisations OM No 571 dated 25th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Postponement of Sr AOs Mid Career and Induction Training Programme - reg OM No 388 dated 22th Nov 2024",
+        "information": "Postponement of Sr AOs Mid Career and Induction Training Programme - reg OM No 388 dated 22th Nov 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Mid-Career Training for SrAOs -reg OM No 385 Dated 21st November 2024",
+        "information": "Mid-Career Training for SrAOs -reg OM No 385 Dated 21st November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Shri Ajay Kumar SrAO Vigilance Section O/o CGA has been co-opted in the CSB OM No 557 Dated 21st November 2024",
+        "information": "Shri Ajay Kumar SrAO Vigilance Section O/o CGA has been co-opted in the CSB OM No 557 Dated 21st November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Posting Order of ICAS Officer of 2011 Batch Order No 3192-3199 Dated 21st November 2024 ",
+        "information": "Posting Order of ICAS Officer of 2011 Batch Order No 3192-3199 Dated 21st November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Pan India Training cum Rollout Plan for Implementation of e-Bill System to Digitize Bill Processing at Cheque Drawing and Disbursing Offices CDDOs in PFMS OM NO 145 dated 20 Nov 2024",
+        "information": "Pan India Training cum Rollout Plan for Implementation of e-Bill System to Digitize Bill Processing at Cheque Drawing and Disbursing Offices CDDOs in PFMS OM NO 145 dated 20 Nov 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Proposed Induction of SrAO into JTS of ICAS for the vacancy year 2024 and 2025 OM NO 382 dated 20 Nov 2024",
+        "information": "Proposed Induction of SrAO into JTS of ICAS for the vacancy year 2024 and 2025 OM NO 382 dated 20 Nov 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer of the Sr AOs to be treated as in Public interest instead of own request  OM No 548 Dated 19th November 2024",
+        "information": "Transfer of the Sr AOs to be treated as in Public interest instead of own request  OM No 548 Dated 19th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of Senior Accounts Officers  Order No 41 of 2024 Dated 19th November 2024",
+        "information": "Transfer/posting of Senior Accounts Officers  Order No 41 of 2024 Dated 19th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of Senior Accounts Officer  Order No 42 of 2024 Dated 19th November 2024",
+        "information": "Transfer/posting of Senior Accounts Officer  Order No 42 of 2024 Dated 19th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Special Drive for Settlement of Outstanding Inspection Paras OM No 636-37 Dated 14th November 2024",
+        "information": "Special Drive for Settlement of Outstanding Inspection Paras OM No 636-37 Dated 14th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Collection of information in respect of Sr Accountant Group-B Non-Gazetted from Ministries/Departments - reg OM No 126 of 2024 Dated 13th November 2024",
+        "information": "Collection of information in respect of Sr Accountant Group-B Non-Gazetted from Ministries/Departments - reg OM No 126 of 2024 Dated 13th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Posting Order of ICAS Officer of 2014 Batch Order No 3139-48 Dated 13th November 2024 ",
+        "information": "Posting Order of ICAS Officer of 2014 Batch Order No 3139-48 Dated 13th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Posting Order of ICAS Officer of 2013 Batch Order No 3129-38 Dated 13th November 2024 ",
+        "information": "Posting Order of ICAS Officer of 2013 Batch Order No 3129-38 Dated 13th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Induction Training for SrAOs reg OM No 376 Dated 13th November 2024",
+        "information": "Induction Training for SrAOs reg OM No 376 Dated 13th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Promotion of Multi-Tasking Staff to the post of Lower Division Clerk on seniority-cum-fitness basis 5 percentage quota for the Vacancy Year 2025 OM No 125/2024 Dated 13th November 2024 ",
+        "information": "Promotion of Multi-Tasking Staff to the post of Lower Division Clerk on seniority-cum-fitness basis 5 percentage quota for the Vacancy Year 2025 OM No 125/2024 Dated 13th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of SrAO-regarding Order No 40 of 2024 Dated 12th November 2024",
+        "information": "Transfer/posting of SrAO-regarding Order No 40 of 2024 Dated 12th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Posting Order of ICAS Officer of 2013 Batch Order No 3098-3109 Dated 12th November 2024 ",
+        "information": "Posting Order of ICAS Officer of 2013 Batch Order No 3098-3109 Dated 12th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "APAR Dossier of AAOs for holding DPC for promotion as SrAOs for the Vacancy Year 2024/2025-regarding OM No 372 Dated 8th November 2024",
+        "information": "APAR Dossier of AAOs for holding DPC for promotion as SrAOs for the Vacancy Year 2024/2025-regarding OM No 372 Dated 8th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Additional Charge of Assistant Accounts Officer OM No 528 Dated 8th November 2024",
+        "information": "Additional Charge of Assistant Accounts Officer OM No 528 Dated 8th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Supreme Court directions - reservation in promotion notional basis to PwBDs from 30/06/2016 - reminder - reg OM No Dated 18th October 2024",
+        "information": "Supreme Court directions - reservation in promotion notional basis to PwBDs from 30/06/2016 - reminder - reg OM No Dated 18th October 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Monthly Report on Mandatory completion of online courses on iGOT platform Mission Karmayogi by SrAOs and AAOs of CCAS Cadre OM No 366 dated 7th November 2024",
+        "information": "Monthly Report on Mandatory completion of online courses on iGOT platform Mission Karmayogi by SrAOs and AAOs of CCAS Cadre OM No 366 dated 7th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": " Designation of First Appellate Authority and Central Public Information Officer in the O/o CGA Notification No 2080-2084 Dated 7th November 2024 ",
+        "information": "Designation of First Appellate Authority and Central Public Information Officer in the O/o CGA Notification No 2080-2084 Dated 7th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Departmental Confirmatory Examination for Accountants January 2025 Notification No 3232 Dated 7th November 2024 ",
+        "information": "Departmental Confirmatory Examination for Accountants January 2025 Notification No 3232 Dated 7th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Sharing Write ups/ Suggestion/ Anubhav on Anubhav Portal Circular No 2030-2031 Dated 1st November 2024",
+        "information": "Sharing Write ups/ Suggestion/ Anubhav on Anubhav Portal Circular No 2030-2031 Dated 1st November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Designation of First Appellate Authority and Central Public Information Officer in the O/o CGA Notification No 2048-2052 Dated 5th November 2024",
+        "information": "Designation of First Appellate Authority and Central Public Information Officer in the O/o CGA Notification No 2048-2052 Dated 5th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Nomination of SrAOs for Induction Training Programme 2 WEEK OFFLINE at INGAF Delhi OM No 360 Dated 5th November 2024",
+        "information": "Nomination of SrAOs for Induction Training Programme 2 WEEK OFFLINE at INGAF Delhi OM No 360 Dated 5th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Correction Slip Nos 1037 to 1040 dated 4th November 2024 regarding opening of new Minor Heads 105-Research and Operations under Major Heads 3403 and 5403 and for change of nomenclature of Major Heads 3403 & 5403",
+        "information": "Correction Slip Nos 1037 to 1040 dated 4th November 2024 regarding opening of new Minor Heads 105-Research and Operations under Major Heads 3403 and 5403 and for change of nomenclature of Major Heads 3403 & 5403"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Grant of NFU to ICAS Officer 1997 Batch-reg Order No 2281-91 Dated 4th November 2024 ",
+        "information": "Grant of NFU to ICAS Officer 1997 Batch-reg Order No 2281-91 Dated 4th November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of SrAO-regarding Order No 39 of 2024 Dated 1st November 2024",
+        "information": "Transfer/posting of SrAO-regarding Order No 39 of 2024 Dated 1st November 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Induction Training of AAOs - reg OM No 355 Dated 30th October 2024 ",
+        "information": "Induction Training of AAOs - reg OM No 355 Dated 30th October 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Submission of Consolidated Report on Review of Balances for the year 2023-24 OM No 393 Dated 30th October 2024",
+        "information": "Submission of Consolidated Report on Review of Balances for the year 2023-24 OM No 393 Dated 30th October 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Inter Ministry transfer of AOs/SrAOS at various stations Order No 470 Dated 14th October 2024 ",
+        "information": "Inter Ministry transfer of AOs/SrAOS at various stations Order No 470 Dated 14th October 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Transfer/posting of SrAO-reg Order No 458 Dated 14th October 2024",
+        "information": "Transfer/posting of SrAO-reg Order No 458 Dated 14th October 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Additional Charge of RPAO NH M/o SRTH Mumbai reg Order No 459 Dated 14th October 2024",
+        "information": "Additional Charge of RPAO NH M/o SRTH Mumbai reg Order No 459 Dated 14th October 2024"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Civil Accounts Manual Revised Fourth Edition 2024 Hindi Version",
+        "information": "Civil Accounts Manual Revised Fourth Edition 2024 Hindi Version"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Field Accounting Units",
+        "information": "Field Accounting Units"
+    },
+    {
+        "tag": "a",
+        "tooltip": "ICAS Directory",
+        "information": "ICAS Directory"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Civil Accounts Organization",
+        "information": "Civil Accounts Organization"
+    },
+    {
+        "tag": "a",
+        "tooltip": "GST-Corner",
+        "information": "GST Corner"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Former-CGAs",
+        "information": "Former CGAs"
+    },
+    {
+        "tag": "a",
+        "tooltip": "COMMON-YOGA-PROTOCOL-CYP",
+        "information": "COMMON YOGA PROTOCOL CYP"
+    },
+    {
+        "tag": "a",
+        "tooltip": "IT-Web-Manager",
+        "information": "IT Web Manager"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Feedback",
+        "information": "Feedback"
+    },
+    {
+        "tag": "a",
+        "tooltip": "Sitemap",
+        "information": "Sitemap"
+    }
+]
