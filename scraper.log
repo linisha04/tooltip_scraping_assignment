@@ -1,0 +1,45 @@
+2025-02-03 16:19:19,453 - INFO - Data successfully saved in tooltips_info.json
+2025-02-03 16:19:44,013 - INFO - Data successfully saved in tooltips_info.json
+2025-02-03 16:21:53,157 - WARNING - No tooltip data found on the page.
+2025-02-03 16:22:26,205 - ERROR - error  in fetching Url https://blinkit.com/: 403 Client Error: Forbidden for url: https://blinkit.com/
+2025-02-03 16:22:26,207 - INFO - retrying in 3.033161537866643 seconds...
+2025-02-03 16:22:29,441 - ERROR - error  in fetching Url https://blinkit.com/: 403 Client Error: Forbidden for url: https://blinkit.com/
+2025-02-03 16:22:29,441 - INFO - retrying in 5.206118018704421 seconds...
+2025-02-03 16:22:34,653 - ERROR - max retries reached. Can not fetch the webpage!!
+2025-02-03 16:22:34,654 - ERROR - No HTML data received. Now exiting...
+2025-02-03 16:29:20,723 - ERROR - error  in fetching Url https://blinkit.com/: 403 Client Error: Forbidden for url: https://blinkit.com/
+2025-02-03 16:29:20,724 - INFO - retrying in 3.1302716613364687 seconds...
+2025-02-03 16:29:24,015 - ERROR - error  in fetching Url https://blinkit.com/: 403 Client Error: Forbidden for url: https://blinkit.com/
+2025-02-03 16:29:24,016 - INFO - retrying in 4.564937711564013 seconds...
+2025-02-03 16:29:28,581 - ERROR - max retries reached. Can not fetch the webpage!!
+2025-02-03 16:29:28,582 - ERROR - No HTML data received. Now exiting...
+2025-02-03 17:03:33,389 - INFO - Starting tooltip scraping for: https://www.flipkart.com/
+2025-02-03 17:03:34,409 - INFO - Data successfully saved in tooltips_info.json
+2025-02-03 17:03:34,409 - INFO - Scraping completed in1.02 seconds!!
+2025-02-03 18:34:47,107 - INFO - Starting tooltip scraping for: https://www.flipkart.com/
+2025-02-03 18:34:54,182 - INFO - Successfully fetched https://www.flipkart.com/ with UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+2025-02-03 18:34:54,361 - INFO - Data successfully saved in tooltips_info.json
+2025-02-03 18:34:54,364 - INFO - Scraping completed in 7.25 seconds!!
+2025-02-03 19:05:18,939 - INFO - Starting tooltip scraping for: https://cga.nic.in/
+2025-02-03 19:05:20,035 - INFO - Successfully fetched https://cga.nic.in/ with UserAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+2025-02-03 19:05:20,219 - INFO - Data successfully saved in tooltips_info.json
+2025-02-03 19:05:20,220 - INFO - Scraping completed in 1.28 seconds!!
+2025-02-03 19:13:58,661 - INFO - Starting tooltip scraping for: https://www.cbse.gov.in/
+2025-02-03 19:13:58,790 - INFO - Successfully fetched https://www.cbse.gov.in/ with UserAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+2025-02-03 19:13:58,802 - INFO - Data successfully saved in tooltips_info.json
+2025-02-03 19:13:58,802 - INFO - Scraping completed in 0.14 seconds!!
+2025-02-03 19:17:05,145 - INFO - Starting tooltip scraping for: https://blinkit.com/
+2025-02-03 19:17:05,364 - ERROR - error  in fetching Url https://blinkit.com/: 403 Client Error: Forbidden for url: https://blinkit.com/
+2025-02-03 19:17:05,364 - INFO - retrying in 3.430568765787178 seconds...
+2025-02-03 19:17:09,047 - ERROR - error  in fetching Url https://blinkit.com/: 403 Client Error: Forbidden for url: https://blinkit.com/
+2025-02-03 19:17:09,047 - INFO - retrying in 5.361631644711482 seconds...
+2025-02-03 19:17:14,414 - ERROR - max retries reached. Can not fetch the webpage!!
+2025-02-03 19:17:14,415 - ERROR - No HTML data received. Now exiting...
+2025-02-03 19:20:14,679 - INFO - Starting tooltip scraping for: https://www.flipkart.com/
+2025-02-03 19:20:22,990 - INFO - Successfully fetched https://www.flipkart.com/ with UserAgent: Mozilla/5.0 (iPad; CPU OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/537.36
+2025-02-03 19:20:23,076 - INFO - Data successfully saved in tooltips_info.json
+2025-02-03 19:20:23,078 - INFO - Scraping completed in 8.40 seconds!!
+2025-02-03 19:24:30,954 - INFO - Starting tooltip scraping for: https://cga.nic.in/
+2025-02-03 19:24:31,920 - INFO - Successfully fetched https://cga.nic.in/ with UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+2025-02-03 19:24:32,067 - INFO - Data successfully saved in tooltips_info.json
+2025-02-03 19:24:32,068 - INFO - Scraping completed in 1.11 seconds!!
